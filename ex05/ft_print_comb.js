@@ -9,7 +9,7 @@ const printCombinaisons = () => {
         }
     }
 
-    let result = array.join()
+    let result = array.join(', ')
     return result
 }
 
